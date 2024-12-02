@@ -1,0 +1,22 @@
+{
+  "name": "backendinnodejs",
+  "version": "1.0.0",
+  "description": "This is Backend in Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Udit/BackendInNodeJs.git"
+  },
+  "author": "Udit Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Udit/BackendInNodeJs/issues"
+  },
+  "homepage": "https://github.com/Mr-Udit/BackendInNodeJs#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
